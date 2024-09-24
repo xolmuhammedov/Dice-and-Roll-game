@@ -1,0 +1,14 @@
+D:\Codes\Dice-and-Roll-game\bin\Debug\net8.0\Dice-and-Roll-game.exe
+D:\Codes\Dice-and-Roll-game\bin\Debug\net8.0\Dice-and-Roll-game.deps.json
+D:\Codes\Dice-and-Roll-game\bin\Debug\net8.0\Dice-and-Roll-game.runtimeconfig.json
+D:\Codes\Dice-and-Roll-game\bin\Debug\net8.0\Dice-and-Roll-game.dll
+D:\Codes\Dice-and-Roll-game\bin\Debug\net8.0\Dice-and-Roll-game.pdb
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.AssemblyInfoInputs.cache
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.AssemblyInfo.cs
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.csproj.CoreCompileInputs.cache
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.dll
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\refint\Dice-and-Roll-game.dll
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.pdb
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\Dice-and-Roll-game.genruntimeconfig.cache
+D:\Codes\Dice-and-Roll-game\obj\Debug\net8.0\ref\Dice-and-Roll-game.dll
